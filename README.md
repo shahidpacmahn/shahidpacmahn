@@ -36,7 +36,7 @@
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/muhammed-shahid-chammayil-849b29164/))    
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-shahid-chammayil-849b29164/)    
 - 📧 shahid.chammayil@fau.de / shahid.pacmahn@gmail.com
 
 ---
