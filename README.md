@@ -24,13 +24,45 @@
 - **Qburst Technologies**  
 
 
-### 🛠️ Skills & Tools
+<!-- ====== Tech stack ====== -->
 
-**Languages:** Python, JavaScript, C++, MATLAB  
-**Frameworks:** Flask, React.js, Streamlit, Py2neo  
-**Cloud:** Azure (used), Docker, GitLab CI  
-**ML/AI:** TensorFlow, CausalML, OpenAI APIs  
-**Others:** MQTT, Neo4j, SQL, FastAPI (familiar)
+<!-- Languages -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40"/>
+</p>
+
+<!-- Frameworks & Libraries -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Py2neo-5E96B5?style=for-the-badge&logo=neo4j&logoColor=white" alt="Py2neo"/>
+</p>
+
+<!-- Cloud / DevOps -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D27?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+</p>
+
+<!-- ML / AI -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/>
+  <img src="https://img.shields.io/badge/CausalML-0A7ACC?style=for-the-badge&logo=python&logoColor=white" alt="CausalML"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
+
+<!-- Databases & Messaging -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="40"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=apache%20mqtt&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
 
 ---
 
