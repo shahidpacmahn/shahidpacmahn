@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shahid</h1>
 
 <p align="center">
-  <em>AI Engineer | Digital Manufacturing Enthusiast | M.Sc. Electromobility @ FAU Erlangen</em>
+  <em> Digital Manufacturing Enthusiast | M.Sc. Electromobility @ FAU Erlangen</em>
 </p>
 
 ---
@@ -57,5 +57,5 @@
 
 ---
 
-_“Building smarter factories with code and creativity.”_
+_“I find myself somewhere between Machines and their independence from human aid(Not the Armageddon). if you too find yourself there, Let's have a chat”_
 
