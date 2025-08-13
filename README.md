@@ -10,7 +10,7 @@
 
 - 🎓 Pursuing M.Sc. in Electromobility with a major in AI & Powertrain
 - 🏭 Passionate about **digital transformation in production lines**  
-- 🤖 Building **AI-driven industrial solutions** — from edge-based ML to causal inference dashboards
+- 🤖 Love to build **AI-driven industrial solutions**
 - 🌍 Open to collaborations and roles in **smart manufacturing, Industry 4.0, or intelligent automation**
 
 ---
