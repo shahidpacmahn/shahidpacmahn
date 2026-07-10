@@ -1,15 +1,16 @@
 <h1 align="center">👋 Hi, I'm Shahid</h1>
 
 <p align="center">
-  <em> Digital Manufacturing Enthusiast | M.Sc. Electromobility @ FAU Erlangen</em>
+  <em> Digitalization Engineer | M.Sc. ACES @ FAU Erlangen</em>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Pursuing M.Sc. in Electromobility with a major in AI & Powertrain
-- 🏭 Passionate about **digital transformation in production lines**  
+- 💼 Digitalization Engineer working on Digital Twins and Industrial AI
+- 🎓 M.Sc. in ACES with a major in AI & E-Powertrain
+- 🏭 Passionate about **digital transformation in production lines and processes**  
 - 🤖 Love to build **AI-driven industrial solutions**
 - 🌍 Open to collaborations and roles in **smart manufacturing, Industry 4.0, or intelligent automation**
 
@@ -17,6 +18,8 @@
 
 ### 💼 My Experience
 
+- **Elmec-Agents for Siemens**
+  
 - **Siemens Digital Industries**  
 
 - **FAPS Institute, FAU**  
